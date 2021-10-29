@@ -51,7 +51,7 @@ function App() {
 
   return (
 
-    <div style = {{ width : 550, height : 150, marginLeft : 100 }}>
+    <div style = {{ width : 800, height : 150, marginLeft : 100 }}>
 
       <h2  style = {{ marginLeft : 200}}> To Do List Demo </h2>
       
@@ -64,7 +64,7 @@ function App() {
       <div>
         <span style = {{ marginLeft : 10}}> Done </span>
         <span style = {{ marginLeft : 50}}> Task </span>
-        <span style = {{ marginLeft : 75}}> Delete </span>
+        <span style = {{ marginLeft : 100}}> Delete </span>
         <span style = {{ marginLeft : 75}}> Updated Time </span>
         <hr/>
       </div>
