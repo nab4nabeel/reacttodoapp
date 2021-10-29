@@ -27,7 +27,7 @@ Prerequisites :
 5)    A command-line Git client setup according to GitHub.
 
 
-Steps To Run:
+Steps To Run Browser client once server is running:
 
 1) Before running this App make sure that the springtodoapp is build and running successfully on http://localhost:8080
 
